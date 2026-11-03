@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-groq
+langchain-huggingface
+dotenv
+pydantic
